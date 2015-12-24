@@ -1,12 +1,24 @@
 layout_spectrum: 1
-typography_spectrum: 0.4893617
+name: ingenius
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0.6212766
   lightness: 0.6574468
-  brandStrength: 0.6680851
   saturation: 0.6
   rhythmicContrast: 0.2787234
   brandColors:
     - '#FFFFFF'
     - '#07046E'
     - '#8B8AC5'
-name: ingenius
+typography_spectrum: 0.4893617
