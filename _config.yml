@@ -1,5 +1,7 @@
-layout_spectrum: 0.993617
 name: ingenius
+favicon: null
+layout_spectrum: 0.82287
+typography_spectrum: 0.6893617
 collections:
   - index:
       navigable: true
@@ -12,15 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0
-  lightness: 0.793617
-  saturation: 1
-  rhythmicContrast: 0.3574468
   brandColors:
     - '#FFFFFF'
     - '#000000'
     - '#0000FF'
     - '#007AFF'
     - '#B3B3B3'
-typography_spectrum: 0.6893617
+  brandStrength: 1
+  lightness: 0.5625
+  saturation: 1
+  rhythmicContrast: 0
+purpose: []
