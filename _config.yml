@@ -14,6 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: Ingenius - Ingenieria y Soluciones Energéticas
 cta:
   domain: null
   bucket: null
